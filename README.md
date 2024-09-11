@@ -1,7 +1,5 @@
 # Django Signals and Python Classes
 
-This repository contains code examples and answers to questions about Django signals and Python custom classes.
-
 ## Django Signals
 
 ### Question 1: Are Django signals synchronous or asynchronous?
